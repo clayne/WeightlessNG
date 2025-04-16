@@ -6,7 +6,7 @@ message("Using toolchain file ${CMAKE_TOOLCHAIN_FILE}.")
 ########################################################################################################################
 project(
         Weightless
-        VERSION 1.0.0
+        VERSION 1.3.0
         DESCRIPTION "Sets a lot of items weight to 0."
         LANGUAGES CXX)
 set(CMAKE_CXX_STANDARD 23)

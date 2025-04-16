@@ -38,5 +38,8 @@ public:
     static inline bSetting jewelry{"General"s, "jewelry"s, true};
     static inline bSetting weapons{"General"s, "weapons"s, true};
     static inline bSetting armor{"General"s, "armor"s, true};
+    static inline bSetting ammo{"General"s, "ammo"s, true};
+    static inline bSetting light{"General"s, "light"s, true};
     static inline sSetting blacklist{"General"s, "blacklist"s, ""};
+    static inline sSetting whitelist{"General"s, "whitelist"s, ""};
 };
